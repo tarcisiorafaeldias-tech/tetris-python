@@ -2,7 +2,7 @@ Nome do projeto:Tetris em Python
 
 Nome dos integrantes:
 Tarcisio Rafael Nunes Dias
-Yasmin Martini Beneplacito
+Yasmin Martin Beneplacito
 
 Tema:Jogo Tetris desenvolvido em Python utilizando a biblioteca Pygame.
 
